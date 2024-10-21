@@ -1,12 +1,8 @@
 # Hierarchical Graph Learning with Small-World Brain Connectomes for Cognitive Prediction [<a href="https://link.springer.com/chapter/10.1007/978-3-031-72086-4_29">paper</a>]
 
 [python-img]: https://img.shields.io/github/languages/top/ZhihaoPENG-CityU/MM21---AGCN?color=lightgrey
-[stars-img]: https://img.shields.io/github/stars/ZhihaoPENG-CityU/MM21---AGCN?color=yellow
-[stars-url]: https://github.com/ZhihaoPENG-CityU/MM21---AGCN/stargazers
-[fork-img]: https://img.shields.io/github/forks/ZhihaoPENG-CityU/MM21---AGCN?color=lightblue&label=fork
 [![Made with Python][python-img]]
-[![GitHub stars][stars-img]]
-[![GitHub forks][fork-img]]
+
 
 Our four brain-oriented submitted papers are all accepted by MICCAI 2024 (one Early Accept)
 # Abstract
