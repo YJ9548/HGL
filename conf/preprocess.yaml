@@ -1,0 +1,3 @@
+defaults:
+  - flag: 'train'
+  - score_name: {'SCPT_SEN', "ProcSpeed_Unadj", ...}

@@ -1,0 +1,7 @@
+defaults:
+  - dataset: HCP
+  - atlas: AAL 82 246
+  - node_features: adj
+  - timeseries: length 1200
+  - node_number_coarse: 82
+  - node_number_fine: 246

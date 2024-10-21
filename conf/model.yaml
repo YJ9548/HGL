@@ -1,0 +1,16 @@
+defaults:
+  - GNN_layers: 2
+  - MLP_layers: 1
+  - num_heads: 2
+  - hidden_dim: 32
+  - edge_emb_dim: 4
+  - gat_mp_type: attention_weighted
+  - gcn_mp_type: edge_node_concate
+  - model: MSSW
+  - optimizer: adam
+  - training: basic_training
+  - datasz: 100p
+  - preprocess: mixup
+  - dropout: 0.5
+  - pooling: concat
+  - pre_len: 1

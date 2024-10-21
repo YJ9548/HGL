@@ -1,0 +1,9 @@
+defaults:
+  - lr: 1e-2
+  - epochs: 500
+  - workers: 0
+  - BN: 64
+  - seed: 112078
+  - test_BN: 64
+  - _self_ 
+
