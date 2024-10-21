@@ -1,0 +1,1 @@
+Download the ABIDE dataset from the link (https://www.humanconnectome.org/study/hcp-young-adult/data-releases).
